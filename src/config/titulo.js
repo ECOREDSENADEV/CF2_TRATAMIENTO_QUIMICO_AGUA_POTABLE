@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Dosificación de insumos químicos en potabilización del agua'
