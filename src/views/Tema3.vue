@@ -276,7 +276,7 @@
 
     .row.justify-content-center
       .col-lg-10
-        .bg-color-2.mb-5(data-aos="fade-up")
+        .bg-color-2.mb-5(data-aos="fade-down")
           .row.justify-content-center.align-items-center
             .col-lg-auto.mb-3.mb-lg-0
               figure
