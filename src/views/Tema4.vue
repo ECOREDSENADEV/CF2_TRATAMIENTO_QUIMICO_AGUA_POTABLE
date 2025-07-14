@@ -50,17 +50,17 @@
 
     .row.justify-content-center
       .col-lg-8
-        .row.mb-5
+        .row.mb-3
           .col-lg-3.bg-color-4.p-4.text-center
             h5.mb-0 Válvula reguladora
           .col-lg-9.bg-color-5.p-4
             p.mb-0 Controla la salida del gas desde el cilindro.
-        .row.mb-5
+        .row.mb-3
           .col-lg-3.bg-color-12.p-4.text-center
             h5.mb-0 Medidor de flujo (rotámetro)
           .col-lg-9.bg-color-8.p-4
             p.mb-0 Indica la cantidad de gas dosificado (g/h o lb/día).
-        .row.mb-5.alin
+        .row.mb-3
           .col-lg-3.bg-color-2.p-4.text-center
             h5.mb-0.mt-3 Inyectores
           .col-lg-9.bg-color-7.p-4
